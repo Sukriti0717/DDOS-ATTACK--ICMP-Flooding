@@ -4,7 +4,7 @@ ICMP flooding, also known as ICMP flood attack or Ping flood attack, is atype of
 
 The primary goal of an ICMP Flood DDoS attack is to exhaust the target system's resources, leading to degraded performance or a complete denial of service. The sheer volume of incoming ICMP requests can overload the target's network infrastructure, making it difficult for legitimate traffic to reach its destination. As a result, the target may experience slow response times, service interruptions, or even a complete shutdown.
 # Requirements
-- Python
+- Python 
 # Target Website
 The website that we have chosen to attack for the purpose of this project is https://www.hackthissite.org/ (which is a legal training ground to practice ethical hacking). 
 # Usage
